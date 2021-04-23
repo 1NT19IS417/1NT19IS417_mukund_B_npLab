@@ -1,6 +1,6 @@
  /*Title: Program 1 
  Question : C program in which sender module should count the no of bytes in the
-							  frame and reciever module should display each frame recieved
+	    frame and reciever module should display each frame recieved
 Author:Mukund.G -USN:1NT19IS417
  Date: 23/04/21*/ 
 
