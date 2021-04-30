@@ -72,7 +72,7 @@ void sender()
       }
 			else
       { 
-			//printf("%d\n",count);
+			///printf("%d\n",count);
 			frame[j]=data[i]; 
 			j++; 
 			count++; 
