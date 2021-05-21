@@ -1,10 +1,10 @@
-# UDP CLIENT & SERVER 
+# TCP CLIENT & SERVER 
 
 ## Output
-- UDP SERVER
+- TCP CLIENT
 
 ![Screenshot](server.png)
 
-- UDP CLIENT
+- TCP SERVER
 
 ![Screenshot](client.png)
