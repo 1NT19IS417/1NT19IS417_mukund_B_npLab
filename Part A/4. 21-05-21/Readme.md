@@ -3,8 +3,8 @@
 ## Output
 - TCP CLIENT
 
-![Screenshot](server.png)
+![Screenshot](TCP-Client.png)
 
 - TCP SERVER
 
-![Screenshot](client.png)
+![Screenshot](TCP-Server.png)
