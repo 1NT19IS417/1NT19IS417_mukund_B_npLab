@@ -1,6 +1,6 @@
 # TCP & UDP CLIENT & SERVER 
 
-## Output
+##  TCP Output
 - TCP CLIENT
 
 ![Screenshot](TCP-Client.png)
@@ -9,7 +9,7 @@
 
 ![Screenshot](TCP-Server.png)
 
-## Output
+## UDP Output
 - UDP CLIENT
 
 ![Screenshot](UDP-Client.png)
