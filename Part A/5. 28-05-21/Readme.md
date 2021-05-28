@@ -16,6 +16,6 @@
 
 ## Output files
 
-[Bellman Ford Output](outputs/)
+[Bellman Ford Output](outputs/Output.txt)
 
 
