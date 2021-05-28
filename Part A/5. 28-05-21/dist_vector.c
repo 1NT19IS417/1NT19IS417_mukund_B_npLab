@@ -1,5 +1,5 @@
  /*Title: Distance Matrix  
- Question : C program to see how a distance Mtrix works for A given Matrix 
+ Question : C program to see how a Distance Matrix is calculated for a given Matrix 
 Author:Mukund.G -USN:1NT19IS417
  Date: 28/05/21*/ 
 
