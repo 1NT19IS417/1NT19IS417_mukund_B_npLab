@@ -6,11 +6,11 @@
 
 ## Distance vector routing table using Bellman-Ford algorithm:
 
-![bf-1](outputs/b-ford1.png)
+![bf-1](outputs/bford-1.png)
 
-![bf-2](outputs/b-ford2.png)
+![bf-2](outputs/bford-2.png)
 
-![bf-3](outputs/b-ford3.png)
+![bf-3](outputs/bford-3.png)
 
 <hr />
 
