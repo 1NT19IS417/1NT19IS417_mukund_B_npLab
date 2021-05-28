@@ -16,6 +16,6 @@
 
 ## Output files
 
-[Output for the above Graps](outputs/Output.txt)
+[Output for the above Graph](outputs/Output.txt)
 
 
