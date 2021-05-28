@@ -16,6 +16,6 @@
 
 ## Output files
 
-[Bellman Ford Output](outputs/Output.txt)
+[Output for the above Graph](outputs/Output.txt)
 
 
