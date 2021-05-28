@@ -2,7 +2,7 @@
 
 ## Graph taken:
 
-![graph](outputs/graph.png)
+![graph](outputs/Graph.png)
 
 ## Distance vector routing table using Bellman-Ford algorithm:
 
