@@ -1,3 +1,3 @@
 # Output Screenshots:
 
-![Screenshot](leaky1.png)
+![Screenshot](leakybuck.png)
