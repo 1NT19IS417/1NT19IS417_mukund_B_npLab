@@ -1,6 +1,6 @@
 # UDP Client -> Server Using CSMA
 
-## Output Screenshots:
+## Output :
 ![Alt Text](csma.gif)
 
 ## Final Code
