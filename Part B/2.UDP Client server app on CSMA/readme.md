@@ -1,4 +1,4 @@
-# UDP Client -> Server Using P2P
+# UDP Client -> Server Using CSMA
 
 ## Output Screenshots:
 ![Alt Text](csma.gif)
