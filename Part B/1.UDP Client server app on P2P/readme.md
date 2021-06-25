@@ -1,6 +1,6 @@
 # UDP Client -> Server Using P2P
 
-## Output Screenshots:
+## Output:
 ![Alt Text](p2p.gif)
 
 ## Final Code
